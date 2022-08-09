@@ -1,0 +1,41 @@
+.main-container p {
+  font-size: 15px;
+  margin-top: -20px;
+}
+.main-container img {
+  height: 200px;
+}
+
+.main-container h6 {
+  text-align: center;
+}
+
+.food-container {
+}
+.phone-container {
+}
+
+.house-container {
+}
+
+.FlexContainer {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  width: auto;
+
+  height: auto;
+  overflow: visible;
+  flex-direction: row;
+}
+
+.FlexContainer div {
+  width: 380px;
+  height: 200px;
+  margin: 50px;
+  margin-left: 100px;
+
+  text-align: justify;
+}

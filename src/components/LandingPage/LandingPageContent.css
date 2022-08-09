@@ -1,0 +1,31 @@
+.Landing-Page__Content__text {
+  /* margin-top: 400px; */
+  top: 150px;
+  position: relative;
+  text-align: left;
+  margin-left: 200px;
+}
+
+.Landing-Page__Content__text p {
+  font-size: 16px;
+}
+
+.notification {
+  background-color: #555;
+  color: white;
+  text-decoration: none;
+  padding: 12px 26px 12px 26px;
+  position: relative;
+  display: inline-block;
+  border-radius: 7px;
+  font-size: 16px;
+}
+
+.notification:hover {
+  background: red;
+}
+
+.trustpilot {
+  margin-top: 50px;
+  font-size: 20px;
+}
