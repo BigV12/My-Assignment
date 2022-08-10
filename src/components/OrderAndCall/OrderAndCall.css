@@ -1,0 +1,65 @@
+.orderandcall-container {
+  margin-top: 250px;
+}
+
+.order img {
+  float: left;
+  height: 700px;
+  margin-top: -150px;
+}
+
+.order {
+  margin-top: 200px;
+  background-color: red;
+}
+
+.order button {
+  padding: 15px;
+  border: 1px solid #46bce0;
+  color: white;
+  background-color: #46bce0;
+  width: 120px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+/* call styling */
+
+.call {
+  margin-top: 500px;
+  background-color: red;
+}
+
+.call h2 {
+  margin-left: 120px;
+}
+.call p {
+  margin-left: 120px;
+  font-size: 15px;
+}
+
+.call img {
+  float: right;
+  margin-top: -100px;
+}
+
+.call-action {
+  padding: 15px;
+  border: 1px solid #46bce0;
+  color: white;
+  background-color: #46bce0;
+  width: 100px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.call-me {
+  margin-left: 120px;
+  margin-top: 50px;
+}
+
+.call-design {
+  background-color: rgb(197, 255, 255);
+  height: 500px;
+}

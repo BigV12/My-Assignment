@@ -1,0 +1,93 @@
+.footer-container {
+  margin-top: 200px;
+}
+
+.top-div {
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-items: flex-start;
+  align-content: flex-start;
+  /* width: 65%; */
+  background-color: #2f1d58;
+  height: 50vh;
+  overflow: visible;
+  flex-direction: row;
+}
+
+.top-div div {
+  width: 70%;
+  /* height: 300px; */
+
+  background-color: lightblue;
+}
+
+.logo {
+  width: 80%;
+  height: 500px;
+  font-size: 26px;
+  /* margin-left: 70px; */
+}
+
+.list1 {
+  width: 45%;
+  height: 500px;
+  font-size: 16px;
+
+  width: 5000px;
+  text-align: left;
+
+  margin-left: 200px;
+}
+
+.list1 li {
+  /* list-style-type: none; */
+  /* margin-left: 100px; */
+  /* padding: 0;
+  display: block; */
+
+  display: block;
+  float: left;
+  clear: left;
+  line-height: 50px;
+}
+
+.list2 {
+  width: 2000px;
+  height: 500px;
+  display: block;
+  font-size: 16px;
+}
+
+.list2 li {
+  float: left;
+  clear: left;
+  display: block;
+  line-height: 50px;
+}
+
+.list3 {
+  width: 2000px;
+  height: 500px;
+  font-size: 16px;
+}
+
+.list3 li {
+  float: left;
+  clear: left;
+  display: block;
+  line-height: 50px;
+}
+
+.down-div {
+}
+
+.ccc {
+  float: right;
+  margin-top: -200px;
+}
+
+.ddd {
+  float: right;
+  margin-top: -200px;
+}

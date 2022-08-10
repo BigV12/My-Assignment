@@ -1,0 +1,33 @@
+.local-food-container {
+  margin-top: 300px;
+}
+
+.local-food-container img {
+  margin-left: 150px;
+}
+
+.local-text {
+  background-color: #46bce0;
+  color: white;
+  float: right;
+  width: 500px;
+  height: 500px;
+  margin-right: 180px;
+}
+
+.local-food-container a {
+  margin-left: 50px;
+  padding: 15px;
+  border: 1px solid #46bce0;
+  color: #46bce0;
+  background-color: white;
+  width: 100px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.local-food-container h2 {
+  margin-left: 50px;
+  margin-top: 160px;
+}

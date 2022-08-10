@@ -1,0 +1,90 @@
+.menu-container {
+  margin-top: 300px;
+}
+
+.menu-container h2 {
+  color: #46bce0;
+
+  text-align: center;
+}
+
+.text {
+  font-size: 15px;
+  margin-top: -20px;
+  text-align: center;
+}
+
+.case {
+  background-color: #b8e9f8;
+  text-align: center;
+}
+
+.drinks {
+  padding: 10px;
+  border: 1px solid #b1b4b5;
+  color: black;
+  background-color: #cce3eb;
+  width: 100px;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  border-radius: 3px;
+  align-items: center;
+}
+
+.slides {
+  padding: 10px;
+  border: 1px solid #b1b4b5;
+  color: black;
+  background-color: #cce3eb;
+  width: 100px;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  border-radius: 3px;
+}
+
+.burgers {
+  padding: 10px;
+  border: 1px solid #b1b4b5;
+  color: black;
+  background-color: #cce3eb;
+  width: 100px;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  border-radius: 3px;
+}
+
+.active {
+  padding: 10px;
+  border: 1px solid #3ea5b5;
+  color: white;
+  background-color: #3ea5b5;
+  width: 100px;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+}
+
+.active :hover {
+  color: white;
+  background-color: #0bc7e4;
+}
+
+.full-menu {
+  padding: 15px;
+  border: 1px solid #46bce0;
+  color: white;
+  background-color: #46bce0;
+  width: 120px;
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-bottom: 40px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.full {
+  text-align: center;
+}
