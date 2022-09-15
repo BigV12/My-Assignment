@@ -56,7 +56,7 @@
   border-radius: 3px;
 }
 
-.active {
+.current {
   padding: 10px;
   border: 1px solid #3ea5b5;
   color: white;

@@ -1,11 +1,13 @@
 .product {
   top: 200px;
-  position: relative;
+  /* position: relative; */
   text-align: left;
   margin-left: 200px;
   margin-top: 400px;
 }
-
+.product h2 {
+  /* margin-top: 500px; */
+}
 .product-image {
   float: right;
   margin-right: 300px;
@@ -13,6 +15,6 @@
 }
 
 .card {
-  background-color: red;
-  height: 700px;
+  background-color: rgb(197, 255, 255);
+  height: 500px;
 }

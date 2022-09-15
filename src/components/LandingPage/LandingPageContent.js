@@ -5,7 +5,7 @@ import { SiTrustpilot } from "react-icons/si";
 const LandingPageContent = () => {
   return (
     <div className="Landing-Page__Content__text">
-      <h2>
+      <h2 className="move">
         Beautiful food & <br></br>takeaway, delivered<br></br> to your door.
       </h2>
       <p>

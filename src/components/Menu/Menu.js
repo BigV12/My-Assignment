@@ -66,7 +66,7 @@ const Menu = () => {
         place a pickup order. Fast and Fresh food<br></br>
       </p>
       <div className="case">
-        <button className="burgers active">Burgers</button>
+        <button className="burgers current">Burgers</button>
         <button className="slides">Slides</button>
         <button className="drinks">Drinks</button>
         <Check items={food} />
